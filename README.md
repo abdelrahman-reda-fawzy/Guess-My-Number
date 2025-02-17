@@ -24,12 +24,3 @@ This project is a simple number guessing game built with HTML, CSS, and JavaScri
 4. The game will provide feedback on whether your guess is too high, too low, or correct.
 5. If your guess is correct, the game will display a success message and update the highscore if applicable.
 6. Click the "Again!" button to reset the game and start a new round.
-
-## Getting Started
-
-To get started with this project, simply clone the repository and open the [`index.html`](index.html) file in your web browser.
-
-```sh
-git clone https://github.com/abdelrahman-reda-fawzy/guess-my-number.git
-cd guess-my-number
-open index.html
